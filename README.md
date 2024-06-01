@@ -15,7 +15,7 @@ The API specification should be well documented using tools such as Swagger.
 <br>
 <br>
 
-Question: How will you ensure the security of your API?<br>
+**Question: How will you ensure the security of your API?<br>**
 Answer: I used Access Tokens to authenticate users and restrict access based on roles and permissions.
 ![image](https://github.com/Tumbler-3/EcoTrack/assets/73570792/6514face-7716-416c-a05a-b2c9d9bd06cf)
 <br>
@@ -33,13 +33,13 @@ Without Admin Permission or without registering i can't use CRUD
 <br>
 <br>
 
-Question: What measures will you take to ensure the performance of your API?<br>
+**Question: What measures will you take to ensure the performance of your API?<br>**
 Answer: I used data caching and database query optimization with prefetching to improve performance.
 ![image](https://github.com/Tumbler-3/EcoTrack/assets/73570792/011b9924-d30b-4dac-b6b3-600b4ea648d8)
 <br>
 <br>
 
-Question: What data formats will you use to pass information through the API?<br>
+**Question: What data formats will you use to pass information through the API?**<br>
 Answer: I used JSON format.
 <br>
 
