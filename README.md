@@ -3,13 +3,9 @@ Back-End Task 5 - EcoTrack
 
 
 I developed a RESTful API based on the provided information to manage a list of air quality sensors. 
-
 The API allow sensors to be created, read, updated, and deleted. 
-
 API has basic authentication and authorization for access. 
-
 The API is able to process requests from multiple clients and ensure high data availability.
-
 The API has support for standard HTTP methods (GET, POST, PUT, DELETE) for each resource.
 
 
