@@ -17,6 +17,7 @@ class DataViewAPI(ListCreateAPIView):
 
     @method_decorator(cache_page(60*10))
     def get(self, request, *args, **kwargs):
+        cache.clear()
         return self.list(request, *args, **kwargs)
     
     def post(self, request, *args, **kwargs):
@@ -35,7 +36,7 @@ class DataDetailViewAPI(RetrieveUpdateDestroyAPIView):
         return self.retrieve(request, *args, **kwargs)
     
     def put(self, request, *args, **kwargs):
-    
+        cache.clear()
         return self.update(request, *args, **kwargs)
     
     def patch(self, request, *args, **kwargs):
