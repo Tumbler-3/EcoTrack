@@ -21,7 +21,7 @@ The API specification should be well documented using tools such as Swagger.
 
 
 
-Question: How will you ensure the security of your API? 
+Question: How will you ensure the security of your API?\n
 Answer: I used Access Tokens to authenticate users and restrict access based on roles and permissions.
 ![image](https://github.com/Tumbler-3/EcoTrack/assets/73570792/6514face-7716-416c-a05a-b2c9d9bd06cf)
 
