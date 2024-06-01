@@ -39,9 +39,8 @@ Answer: I used data caching and database query optimization with prefetching to 
 Question: What data formats will you use to pass information through the API? 
 Answer: I used JSON format.
 
-
-
 Tables:
+        
         Sensor:
                 model - charfield
                 eq_type (equipment type) - charfield
