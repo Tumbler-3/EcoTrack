@@ -12,6 +12,9 @@ The API has support for standard HTTP methods (GET, POST, PUT, DELETE) for each 
 
 
 
+
+
+
 The API specification should be well documented using tools such as Swagger.
 ![image](https://github.com/Tumbler-3/EcoTrack/assets/73570792/886144b1-a94b-4ca7-9f17-9cb16b168120) ![image](https://github.com/Tumbler-3/EcoTrack/assets/73570792/6abed650-720e-437f-9bd9-c38fab8cbf48)
 ![image](https://github.com/Tumbler-3/EcoTrack/assets/73570792/a6c3549a-5bf5-419e-943e-de0ec5bb0ebd) ![image](https://github.com/Tumbler-3/EcoTrack/assets/73570792/3e8ccca6-3f08-44a6-a0c0-8affee203610)
